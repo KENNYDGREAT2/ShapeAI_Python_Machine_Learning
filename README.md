@@ -20,9 +20,7 @@ The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at 
 
 anyone with zero experience on programming can learn.
 
-I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
-
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit: <a href="https://www.shapeai.tech"> www.shapeai.tech</a>
 
 or follow SHAPEAI on:
 
